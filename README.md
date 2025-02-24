@@ -58,6 +58,7 @@
 <p style="text-align: start;color: rgb(0, 0, 0);background-color: rgb(255, 255, 255);font-size: 13px;font-family: Roboto;"><strong>The report describes the functions and some interfaces of the application:</strong></p>
 <p style="text-align: start;color: rgb(0, 0, 0);background-color: rgb(255, 255, 255);font-size: 13px;font-family: Roboto;"><em>https://drive.google.com/file/d/104OC8Zc_hJxG3Joc7sF5TEZRBfxpmcwE/view?usp=sharing/</em></p>
 <p style="text-align: start;color: rgb(0, 0, 0);background-color: rgb(255, 255, 255);font-size: 13px;font-family: Roboto;"><strong>Source Code:&nbsp;</strong><em>https://github.com/congtuan0104/Clinic-Management-Web-UI/</em></p>
+<p style="text-align: start;color: rgb(0, 0, 0);background-color: rgb(255, 255, 255);font-size: 13px;font-family: Roboto;"><strong>Some video Demo:&nbsp;</strong><em>https://drive.google.com/drive/folders/10lmbHl6d8QSGUz4ZR8X1bzZrvcJCyYK-?fbclid=IwY2xjawIozR1leHRuA2FlbQIxMAABHZdgvdKyDEUHWOn_ose6glEjhOoEqC2afiSCg35Bbj--JJxJPc6gceNsXA_aem_Xctpivw9MY665Xn-5P1rqg/</em></p>
 
 ##
 
@@ -94,3 +95,6 @@
 <p><strong>Technical:</strong>&nbsp;Flutter</p>
 <p><strong>Video demo: </strong><a href="https://www.youtube.com/watch?v=3PAqQ7AQQhs" rel="nofollow">https://www.youtube.com/watch?v=3PAqQ7AQQhs</a></p>
 <p><strong class="ql-size-13px"> <br /></strong></p>
+
+##
+<a href="https://byvn.net/N23L" rel="nofollow">https://byvn.net/N23L</a>
